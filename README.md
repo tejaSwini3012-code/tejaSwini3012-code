@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Visualization, analysis, AI&ML**
 
-- 💬 Ask me about **SQL,POWERBI**
+- 💬 Ask me about **SQL**
 
 - 📫 How to reach me **tejaswinimadalam@gmail.com**
 
